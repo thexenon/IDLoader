@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920074160023",
+    "firebase_url": "https://enssa---knust-default-rtdb.firebaseio.com",
+    "project_id": "enssa---knust",
+    "storage_bucket": "enssa---knust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920074160023:android:e24fbce455b77c939426d2",
+        "android_client_info": {
+          "package_name": "com.thexenon.idloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920074160023-h4gaeq629rgho11d6duf9uu4r1a9jieo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60NFb27lhGX7AWeSQNbl8BNUSIX3_6LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920074160023-h4gaeq629rgho11d6duf9uu4r1a9jieo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
